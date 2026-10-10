@@ -1,6 +1,10 @@
-# 🎨 HexCollage v1.0 ✨
+# 🎨 HexCollage v1.0 ✨  ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=yellow) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=yellow) 
 
 **HexCollage** es una aplicación móvil de estudio de arte creativo desarrollada en **Kotlin**, diseñada para generar collages y composiciones visuales dinámicas con una interfaz fluida y un elegante diseño de temática oscura y dorada
+
+<a href="https://github.com/Jaypsmall/HexCollage/releases/download/Android-app/HexCollage_v1.0.apk">
+  <img src="https://img.shields.io/badge/DOWNLOAD_HEXCOLLAGE_PRO_v1.0._APK-181717?style=flat&logo=android&logoColor=yellow" alt="Download Release">
+</a>
 
 ---
 
